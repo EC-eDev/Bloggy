@@ -2,6 +2,7 @@
 Un système de blog simple et léger sans base de données ! Pas besoin de savoir coder pour l'utiliser !
 
 Le design du site n'est pas modifiable (sauf si vous modifiez le code) mais vous pouvez chosir une couleur d'arrière plan.
+- Démo: https://edev.ml/bloggy/
 
 Fonctions :
 - Poster des articles (titre + texte)
