@@ -4,6 +4,7 @@ Un système de blog simple et léger sans base de données ! Pas besoin de savoi
 Le design du site n'est pas modifiable (sauf si vous modifiez le code) mais vous pouvez chosir une couleur d'arrière plan.
 - Démo: https://edev.ml/bloggy/
 
+
 Fonctions :
 - Poster des articles (titre + texte)
 - Poster des images (image + légende)
@@ -14,9 +15,12 @@ Fonctions :
 - Modifier votre mot de passe
 
 
+
 ## Comment l'installer ?
 Vous avez besoin d'un serveur web (Apache, WAMP, LAMP, MAMP...) avec PHP installé.
 Il vous suffit de télécharger le dépôt sur GitHub et de le copier où vous voulez sur votre serveur.
+Je recommande de changer les permissions à 777 pour le dossier où se situe le blog, sinon il pourrait ne pas fonctionner correctement.
+
 
 
 ## Première connexion
