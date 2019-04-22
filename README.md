@@ -11,8 +11,9 @@ Fonctions :
 - Poster des vidéos (vidéos + légende)
 - Poster des fichiers sonores (son + légende)
 - Supprimer des articles, images, vidéos et sons
-- Modifier les paramètres du site (Propriétaire, copyright, couleur, nom et description du site...)
+- Modifier les paramètres du site (Propriétaire, copyright, couleur, mode adulte, nom et description du site...)
 - Modifier votre mot de passe
+- Confirmation pour entrer sur le site si le mode adulte est activé
 
 
 
