@@ -99,7 +99,7 @@ function myFunction() {
     document.getElementById('articles').style.display='none';
     $(document).ready(function() {
         document.getElementById('adult').style.display = "block";
-    });
+   });
 <?php endif; ?>
 </script>
 
