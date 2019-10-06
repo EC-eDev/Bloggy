@@ -66,7 +66,7 @@ $json_data = json_decode($data, true);
   <div class="w3-bar w3-flat-turquoise w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-large w3-hover-teal w3-flat-turquoise" href="javascript:void(0);" onclick="menu()" title="Menu"><i class="fa fa-bars"></i></a>
 
-    <a href="http://edev.ml/bloggy/" class="w3-bar-item w3-button w3-padding-large w3-hover-flat-belize-hole w3-blue">Bloggy</a>
+    <a href="http://martii.co/bloggy/" class="w3-bar-item w3-button w3-padding-large w3-hover-flat-belize-hole w3-blue">Bloggy</a>
 
     <a class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-flat-alizarin w3-right" onclick="document.getElementById('deconnexion').style.display='block'"><li class="fa fa-sign-out-alt w3-xlarge"></li> &nbsp;Déconnexion</a>
 
@@ -120,7 +120,7 @@ $json_data = json_decode($data, true);
 </div>
 
 <footer class="w3-container w3-black w3-padding-64 w3-center w3-opacity">
- <p>&copy; <a href="http://edev.ml" target="_blank">Edgar Caudron</a></p>
+ <p>&copy; <a href="http://martii.co" target="_blank">Edgar Caudron</a></p>
 </footer>
 
 
