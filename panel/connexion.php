@@ -83,7 +83,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </div>
 
 <footer class="w3-container w3-black w3-padding-64 w3-center w3-opacity">
- <p>&copy; <a href="http://edev.ml" target="_blank">Edgar Caudron</a></p>
+ <p>&copy; <a href="http://martii.co" target="_blank">Edgar Caudron</a></p>
 </footer>
 
 <script>
