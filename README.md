@@ -1,8 +1,9 @@
 # Bloggy
 Un système de blog simple et léger sans base de données ! Pas besoin de savoir coder pour l'utiliser !
-
 Le design du site n'est pas modifiable (sauf si vous modifiez le code) mais vous pouvez chosir une couleur d'arrière plan.
-Démo: https://martii.co/bloggy/
+
+### Disclaimer :
+Ce CMS a été développé quand je débutais dans le développement, il a sûrement des failles critiques donc je ne recommande pas de l'utiliser tel quel en production.
 
 
 ### Fonctions :
@@ -18,9 +19,8 @@ Démo: https://martii.co/bloggy/
 
 
 ## Comment l'installer ?
-Vous avez besoin d'un serveur web (Apache, WAMP, LAMP, MAMP...) avec PHP installé.
+Vous avez besoin d'un serveur web (Apache, NGINX, WAMP, LAMP, MAMP...) avec PHP installé.
 Il vous suffit de télécharger le dépôt sur GitHub et de le copier où vous voulez sur votre serveur.
-Je recommande de changer les permissions à 777 pour le dossier où se situe le blog, sinon il pourrait ne pas fonctionner correctement.
 
 
 
